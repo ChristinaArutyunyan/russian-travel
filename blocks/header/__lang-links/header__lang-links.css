@@ -1,11 +1,11 @@
 .header__lang-links {
-    align-self: center;
-    font-size: 24px;
+  align-self: center;
+  font-size: 24px;
 }
 
 @media screen and (max-width: 568px) {
-    .header__lang-links {
-        font-size: 18px;
-        line-height: 20px;
-    }
+  .header__lang-links {
+    font-size: 18px;
+    line-height: 20px;
+  }
 }

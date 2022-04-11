@@ -1,12 +1,11 @@
 .footer__copyright {
-    display: flex;
-    justify-content: flex-end;
-    align-self: end;
-    
+  display: flex;
+  justify-content: flex-end;
+  align-self: end;
 }
 
 @media screen and (max-width: 768px) {
-    .footer__copyright {
-        justify-content: flex-start;
-    }
+  .footer__copyright {
+    justify-content: flex-start;
+  }
 }

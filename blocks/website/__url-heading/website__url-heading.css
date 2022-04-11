@@ -1,12 +1,12 @@
-.website__url-heading{ 
-    font-size: 12px;
-    line-height: 12px;
-    letter-spacing: 2px;
-    color: #AAAAAA;
+.website__url-heading {
+  font-size: 12px;
+  line-height: 12px;
+  letter-spacing: 2px;
+  color: #aaaaaa;
 }
 
 @media screen and (max-width: 568px) {
-    .website__url-heading {
-        margin: 0 16px 0;
-    }
+  .website__url-heading {
+    margin: 0 16px 0;
+  }
 }

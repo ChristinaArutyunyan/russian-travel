@@ -1,22 +1,20 @@
 .place__paragraph {
-    max-width: 484px;
-    margin: 0 0 26px;
-    align-self: start;
-    font-size: 18px;
-    line-height: 29.34px;
+  max-width: 484px;
+  margin: 0 0 26px;
+  align-self: start;
+  font-size: 18px;
+  line-height: 29.34px;
 }
 
 .place__paragraph:last-of-type {
-    margin-bottom: 0;
+  margin-bottom: 0;
 }
 
 @media screen and (max-width: 568px) {
-    .place__paragraph {
-        width: 288px;
-        margin: 25px 16px 0;
-        font-size: 16px;
-        line-height: 26.08px;
-    }
-    
+  .place__paragraph {
+    width: 288px;
+    margin: 25px 16px 0;
+    font-size: 16px;
+    line-height: 26.08px;
+  }
 }
-
