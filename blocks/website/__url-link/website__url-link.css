@@ -1,7 +1,12 @@
-.website__url-link{
+.website__url-link {
     font-size: 18px;
     line-height: 22px;
     text-decoration: underline;
+    color:white;
+}
+
+.website__url-link:hover {
+    opacity: .8;
     color:white;
 }
 

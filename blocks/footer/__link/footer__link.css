@@ -10,11 +10,9 @@
     margin-left: 0;
 }
 
-@media screen and (max-width: 568px) {
+@media screen and (max-width: 762px) {
     .footer__link {
-        flex-direction: column;
-        justify-content: flex-start;
-        align-self: start;
+        align-self: flex-start;
         margin: 0 0 32px;
         font-size: 24px;
         line-height: 24px;
