@@ -1,0 +1,12 @@
+.website__url-link{
+    font-size: 18px;
+    line-height: 22px;
+    text-decoration: underline;
+    color:white;
+}
+
+@media screen and (max-width: 568px) {
+    .website__url-link {
+        margin: 0 16px 0;
+    }
+}

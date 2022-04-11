@@ -1,0 +1,13 @@
+.footer__copyright {
+    display: flex;
+    justify-content: flex-end;
+    align-self: end;
+    
+}
+
+@media screen and (max-width: 568px) {
+    .footer__copyright {
+        max-width: 93%;
+        justify-content: flex-start;
+    }
+}
