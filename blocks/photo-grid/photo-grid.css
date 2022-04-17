@@ -19,7 +19,7 @@
 @media screen and (max-width: 984px) {
   .photo-grid {
     grid-template-columns: repeat(auto-fill, 352px);
-    grid-template-rows: repeat(auto-fil, 264px);
+    grid-template-rows: repeat(auto-fill, 264px);
     gap: 16px;
   }
 }
@@ -27,7 +27,7 @@
 @media screen and (max-width: 568px) {
   .photo-grid {
     grid-template-columns: 288px;
-    grid-template-rows: repeat(auto-fil, 216px);
+    grid-template-rows: repeat(auto-fill, 216px);
     gap: 12px;
     margin-top: 64px;
   }

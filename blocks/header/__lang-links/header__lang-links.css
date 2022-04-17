@@ -1,4 +1,7 @@
 .header__lang-links {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
   align-self: center;
   font-size: 24px;
 }

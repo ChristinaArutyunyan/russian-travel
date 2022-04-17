@@ -1,17 +1,17 @@
-.website__url-link {
+.place__url-link {
+  margin-top: 12px;
   font-size: 18px;
   line-height: 22px;
   text-decoration: underline;
   color: white;
 }
 
-.website__url-link:hover {
+.place__url-link:hover {
   opacity: 0.8;
-  color: white;
 }
 
 @media screen and (max-width: 568px) {
-  .website__url-link {
-    margin: 0 16px 0;
+  .place__url-link {
+    margin-left: 16px;
   }
 }
