@@ -6,14 +6,20 @@
   font-family: "Inter", Arial, Helvetica, sans-serif;
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1140px) {
   .places {
-    margin: 64px 16px 0;
+    margin-left: 48px;
+  }
+}
+
+@media screen and (max-width: 984px) {
+  .places {
+    margin: 88px 24px 0;
   }
 }
 
 @media screen and (max-width: 568px) {
   .places {
-    margin: 64px 0 0;
+    margin-left: 18px;
   }
 }
