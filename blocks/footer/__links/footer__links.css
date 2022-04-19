@@ -3,14 +3,13 @@
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-  align-self: center;
+  align-self: flex-start;
   margin-bottom: 0;
 }
 
 @media screen and (max-width: 762px) {
   .footer__links {
     flex-direction: column;
-    align-self: flex-start;
     margin-top: 0;
   }
 }

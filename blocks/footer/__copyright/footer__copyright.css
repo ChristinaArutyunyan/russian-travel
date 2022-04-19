@@ -1,9 +1,10 @@
 .footer__copyright {
   display: flex;
   justify-content: flex-end;
-  align-self: end;
+  align-self: flex-start;
   font-size: 14px;
   line-height: 16px;
+  margin:0;
 }
 
 @media screen and (max-width: 768px) {
